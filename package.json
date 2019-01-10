@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sebastiannoell/vue-testing/issues"
   },
-  "homepage": "https://github.com/sebastiannoell/vue-testing#readme"
+  "homepage": "https://github.com/sebastiannoell/vue-testing#readme",
+  "dependencies": {
+    "vue": "^2.5.21"
+  }
 }
