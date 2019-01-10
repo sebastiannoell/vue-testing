@@ -1,0 +1,19 @@
+{
+  "name": "vue-testing",
+  "version": "1.0.0",
+  "description": "Just testing stuff in vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastiannoell/vue-testing.git"
+  },
+  "author": "Sebastian Nöll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastiannoell/vue-testing/issues"
+  },
+  "homepage": "https://github.com/sebastiannoell/vue-testing#readme"
+}
